@@ -1,0 +1,16 @@
+setup.py
+api/__init__.py
+api/items.py
+api/middlewares.py
+api/pipelines.py
+api/settings.py
+api/utils.py
+api/scripts/init.lua
+api/scripts/next.lua
+api/spiders/__init__.py
+api/spiders/crawlevents.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
